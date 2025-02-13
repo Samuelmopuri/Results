@@ -1,0 +1,10 @@
+Subjects 
+
+NO of subjects : 6
+
+Subject name : Python programming
+Subject name : Mathematics
+Subject name : COI
+Subject name : COA
+Subject name : DSD
+Subject name : MPMC
